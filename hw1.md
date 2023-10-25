@@ -56,4 +56,4 @@ struct ContentView: View {
     
 ```
 
-<img width="40%"  src="https://raw.githubusercontent.com/ncudemo/yzu-swiftui-1121-864106/main/hw1-20231002-1.png">
+<img width="40%"  src="https://github.com/29Jonathan/iosApp/blob/e530f761f90c971d071c93d1c389c973777366ac/974884B4-C235-4D6D-9E74-CBF757826C83.jpeg">
