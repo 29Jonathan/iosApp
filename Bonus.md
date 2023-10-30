@@ -1,4 +1,4 @@
-<h1>Bouns</h1>
+<h1>Bonus</h1>
     
 ```swift
 
@@ -25,4 +25,4 @@ struct ContentView: View {
     
 ```
 
-<img width="40%"  src="https://github.com/29Jonathan/iosApp/blob/d06118c07c35695ca36bfc67e2242cf13a00aebd/58E1F042-FFB3-46C3-8A4B-C5152CA62B59.jpeg">
+<img width="40%"  src="https://github.com/29Jonathan/iosApp/blob/7341b02b07043f224dc607588a7cc467fe9baf76/A316B403-2A68-485A-9325-57CC65A64ADC.jpeg">
