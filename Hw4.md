@@ -246,5 +246,5 @@ struct MessagesView: View{
 ```
 
 <h1>
-    <a herf="https://yzu365-my.sharepoint.com/:v:/g/personal/s1103525_mail_yzu_edu_tw/EU2w-odbhoxAn63hLvZ5YagBVyyWXt4TBVc_p8ro3PuvSQ?e=N8Ddie"Video Link</a>
+    <a href="https://yzu365-my.sharepoint.com/:v:/g/personal/s1103525_mail_yzu_edu_tw/EU2w-odbhoxAn63hLvZ5YagBVyyWXt4TBVc_p8ro3PuvSQ?e=N8Ddie">Video Link</a>
 </h1>
